@@ -1,0 +1,5 @@
+{"raw_materials": {"iron": 5, "copper": 2, "silicon": 1},
+  "recipes": {"circuit": [["Output:", "circuit", "Output_Count:", 1], ["Parts:", [["silicon", 2], ["copper", 1]]]],
+    "cog": [["Output:", "cog", "Output_Count:", 1], ["Parts:", [["iron", 2]]]],
+    "factory": [["Output:", "factory", "Output_Count:", 1], ["Parts:", [["iron", 10], ["cog", 5]]]],
+    "mine": [["Output:", "mine", "Output_Count:", 1], ["Parts:", [["iron", 5], ["cog", 2]]]]}}
